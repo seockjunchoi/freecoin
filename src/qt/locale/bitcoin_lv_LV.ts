@@ -39,11 +39,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Izvēlies adresi uz kuru sūtīt fgcoins</translation>
+        <translation>Izvēlies adresi uz kuru sūtīt freecoins</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Izvēlies adresi ar kuru saņemt fgcoins</translation>
+        <translation>Izvēlies adresi ar kuru saņemt freecoins</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -202,8 +202,8 @@
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a Fgcoin address</source>
-        <translation>Nosūtīt bitkoinus uz Fgcoin adresi</translation>
+        <source>Send coins to a freecoin address</source>
+        <translation>Nosūtīt bitkoinus uz freecoin adresi</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -226,8 +226,8 @@
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>freecoin</source>
+        <translation>freecoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -254,12 +254,12 @@
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your Fgcoin addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Fgcoin adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your freecoin addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām freecoin adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Fgcoin addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Fgcoin adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified freecoin addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām freecoin adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -278,12 +278,12 @@
         <translation>Ciļņu rīkjosla</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and fgcoin: URIs)</source>
-        <translation>Pieprasīt maksājumus (izveido QR kodu un fgcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and freecoin: URIs)</source>
+        <translation>Pieprasīt maksājumus (izveido QR kodu un freecoin: URIs)</translation>
     </message>
     <message>
-        <source>Open a fgcoin: URI or payment request</source>
-        <translation>Atvērt fgcoin URI vai maksājuma pieprasījumu</translation>
+        <source>Open a freecoin: URI or payment request</source>
+        <translation>Atvērt freecoin URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -465,8 +465,8 @@
         <translation>Izmantot pielāgotu datu mapi:</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>freecoin</source>
+        <translation>freecoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -559,15 +559,15 @@
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Ieslēgt fgcoin &amp;kontroles funkcijas</translation>
+        <translation>Ieslēgt freecoin &amp;kontroles funkcijas</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the Fgcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Fgcoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the freecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt freecoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -619,7 +619,7 @@
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Fgcoin kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt freecoin kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -657,8 +657,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Fgcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Fgcoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the freecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar freecoin tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -920,7 +920,7 @@
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Fgcoin Kontroles Funkcijas</translation>
+        <translation>freecoin Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1099,8 +1099,8 @@
         <translation>Kopēt parakstu uz sistēmas starpliktuvi</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Fgcoin address</source>
-        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Fgcoin adreses īpašnieks.</translation>
+        <source>Sign the message to prove you own this freecoin address</source>
+        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs freecoin adreses īpašnieks.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1216,8 +1216,8 @@
         <translation>Darbināt fonā kā servisu un pieņemt komandas</translation>
     </message>
     <message>
-        <source>Fgcoin Core</source>
-        <translation>Fgcoin Core</translation>
+        <source>freecoin Core</source>
+        <translation>freecoin Core</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

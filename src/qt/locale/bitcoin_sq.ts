@@ -54,12 +54,12 @@
         <translation>Duke marr adresen</translation>
     </message>
     <message>
-        <source>These are your Fgcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Këto janë Fgcoin adresat e juaja për të dërguar pagesa. Gjithmon kontrolloni shumën dhe adresën pranuese para se të dërgoni monedha.</translation>
+        <source>These are your freecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Këto janë freecoin adresat e juaja për të dërguar pagesa. Gjithmon kontrolloni shumën dhe adresën pranuese para se të dërgoni monedha.</translation>
     </message>
     <message>
-        <source>These are your Fgcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Këto janë Fgcoin adresat e juaja për të pranuar pagesa. Rekomandohet që gjithmon të përdorni një adresë të re për çdo transaksion.</translation>
+        <source>These are your freecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Këto janë freecoin adresat e juaja për të pranuar pagesa. Rekomandohet që gjithmon të përdorni një adresë të re për çdo transaksion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -230,8 +230,8 @@
         <translation>Ndrysho frazkalimin e përdorur per enkriptimin e portofolit</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>freecoin</source>
+        <translation>freecoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -401,8 +401,8 @@
         <translation>Miresevini</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>freecoin</source>
+        <translation>freecoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -808,8 +808,8 @@
         <translation>Opsionet:</translation>
     </message>
     <message>
-        <source>Fgcoin Core</source>
-        <translation>Berthama Fgcoin</translation>
+        <source>freecoin Core</source>
+        <translation>Berthama freecoin</translation>
     </message>
     <message>
         <source>Information</source>

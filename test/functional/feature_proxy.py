@@ -2,13 +2,13 @@
 # Copyright (c) 2015-2017 The Bitcoin Core developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
-"""Test fgcoind with different proxy configuration.
+"""Test freecoind with different proxy configuration.
 
 Test plan:
-- Start fgcoind's with different proxy configurations
+- Start freecoind's with different proxy configurations
 - Use addnode to initiate connections
 - Verify that proxies are connected to, and the right connection command is given
-- Proxy configurations to test on fgcoind side:
+- Proxy configurations to test on freecoind side:
     - `-proxy` (proxy everything)
     - `-onion` (proxy just onions)
     - `-proxyrandomize` Circuit randomization
@@ -18,8 +18,8 @@ Test plan:
     - proxy on IPv6
 
 - Create various proxies (as threads)
-- Create fgcoinds that connect to them
-- Manipulate the fgcoinds using addnode (onetry) an observe effects
+- Create freecoinds that connect to them
+- Manipulate the freecoinds using addnode (onetry) an observe effects
 
 addnode connect to IPv4
 addnode connect to IPv6

@@ -1,6 +1,6 @@
-# Fgcoin
+# freecoin
 
-## `Fgcoin Installation on Linux using Ubuntu`
+## `freecoin Installation on Linux using Ubuntu`
 ### `Step 1`
 Use the following commands to install the `BerkelyDB package`.
 ```
@@ -19,17 +19,17 @@ Install the required packages using the following commands.
 ```
 
 ### `Step 3`
-Create a directory to the Fgcoin node software and download the package:
+Create a directory to the freecoin node software and download the package:
 ```
 # mkdir /coins
 # cd /coins
-# git clone https://github.com/fgshop/fgcoin.git
+# git clone https://github.com/fgshop/freecoin.git
 ```
 
 ### `Step 4`
-Compile and install the Fgcoin node:
+Compile and install the freecoin node:
 ```
-# cd fgcoin
+# cd freecoin
 # ./autogen.sh
 # ./configure
 # make
@@ -37,14 +37,14 @@ Compile and install the Fgcoin node:
 ```
 
 ### `Step 5`
-Now, let's create the **fgcoin.conf** configuration file:
+Now, let's create the **freecoin.conf** configuration file:
 ```
-# mkdir /home/<username>/.fgcoin
-# vim /home/<username>/.fgcoin/fgcoin.conf
+# mkdir /home/<username>/.freecoin
+# vim /home/<username>/.freecoin/freecoin.conf
 ```
 
 ### `Step 6`
-Add the following lines to the **fgcoin.conf** configuration file:
+Add the following lines to the **freecoin.conf** configuration file:
 ```
 rpcuser=username
 rpcpassword=userpassword
@@ -57,23 +57,23 @@ addnode=125.125.125.125
 ```
 
 ### `Step 7`
-`Start` the Fgcoin service as a daemon.
+`Start` the freecoin service as a daemon.
 ```
-# fgcoind -daemon
-Fgcoin server starting
+# freecoind -daemon
+freecoin server starting
 ```
-The Fgcoin service will start to syncronize the blockchain after a couple of minutes.
+The freecoin service will start to syncronize the blockchain after a couple of minutes.
 
 ### `Step 8`
 Use the following command to verify the status of the syncronization:
 ```
-# tail -f /home/<username>/.fgcoin/debug.log
+# tail -f /home/<username>/.freecoin/debug.log
 ```
 The blockchain syncrozation might take days or weeks.
 
 ### `Step 9`
-You are now proud owner of a `Fgcoin node`. If you want to `stop` the service, use the following command:
+You are now proud owner of a `freecoin node`. If you want to `stop` the service, use the following command:
 ```
-# fgcoin-cli stop
-Fgcoin server stopping
+# freecoin-cli stop
+freecoin server stopping
 ```
