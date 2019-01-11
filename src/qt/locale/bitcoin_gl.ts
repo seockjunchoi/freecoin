@@ -154,8 +154,8 @@
         <translation>&amp;Verificar mensaxe...</translation>
     </message>
     <message>
-        <source>freecoin</source>
-        <translation>freecoin</translation>
+        <source>Fgcoin</source>
+        <translation>Fgcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -182,12 +182,12 @@
         <translation>Encriptar as claves privadas que pertencen ao teu moedeiro</translation>
     </message>
     <message>
-        <source>Sign messages with your freecoin addresses to prove you own them</source>
-        <translation>Asina mensaxes coas túas direccións freecoin para probar que te pertencen</translation>
+        <source>Sign messages with your Fgcoin addresses to prove you own them</source>
+        <translation>Asina mensaxes coas túas direccións Fgcoin para probar que te pertencen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified freecoin addresses</source>
-        <translation>Verificar mensaxes para asegurar que foron asinados con direccións freecoin dadas.</translation>
+        <source>Verify messages to ensure they were signed with specified Fgcoin addresses</source>
+        <translation>Verificar mensaxes para asegurar que foron asinados con direccións Fgcoin dadas.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -206,8 +206,8 @@
         <translation>Barra de ferramentas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and freecoin: URIs)</source>
-        <translation>Solicitar pagos (xenera códigos QR e freecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and fgcoin: URIs)</source>
+        <translation>Solicitar pagos (xenera códigos QR e fgcoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -218,8 +218,8 @@
         <translation>Amosar a listaxe de etiquetas e direccións para recibir empregadas</translation>
     </message>
     <message>
-        <source>Open a freecoin: URI or payment request</source>
-        <translation>Abrir un freecoin: URI ou solicitude de pago</translation>
+        <source>Open a fgcoin: URI or payment request</source>
+        <translation>Abrir un fgcoin: URI ou solicitude de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -405,8 +405,8 @@
         <translation>Empregar un directorio de datos personalizado</translation>
     </message>
     <message>
-        <source>freecoin</source>
-        <translation>freecoin</translation>
+        <source>Fgcoin</source>
+        <translation>Fgcoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -470,8 +470,8 @@
         <translation>Moedeiro</translation>
     </message>
     <message>
-        <source>Automatically open the freecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente o porto do cliente freecoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
+        <source>Automatically open the Fgcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente o porto do cliente Fgcoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -553,8 +553,8 @@
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the freecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede freecoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Fgcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede Fgcoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -919,8 +919,8 @@
         <translation>Copiar a sinatura actual ao portapapeis do sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this freecoin address</source>
-        <translation>Asina a mensaxe para probar que posees esta dirección freecoin</translation>
+        <source>Sign the message to prove you own this Fgcoin address</source>
+        <translation>Asina a mensaxe para probar que posees esta dirección Fgcoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -939,8 +939,8 @@
         <translation>&amp;Verificar Mensaxe</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified freecoin address</source>
-        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección freecoin especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified Fgcoin address</source>
+        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección Fgcoin especificada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1020,8 +1020,8 @@
         <translation>Executar no fondo como un demo e aceptar comandos</translation>
     </message>
     <message>
-        <source>freecoin Core</source>
-        <translation>Core de freecoin</translation>
+        <source>Fgcoin Core</source>
+        <translation>Core de Fgcoin</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

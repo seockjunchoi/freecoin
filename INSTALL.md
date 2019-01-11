@@ -13,9 +13,9 @@ Use the following commands to install the `BerkelyDB package`.
 Install the required packages using the following commands.
 ```
 # apt-get install libboost-all-dev libzmq3-dev libminiupnpc-dev
-# apt-get install curl git build-essential libtool autotools-dev
+No need aws ubuntu 18 # apt-get install curl git build-essential libtool autotools-dev
 # apt-get install automake pkg-config bsdmainutils python3
-# apt-get install software-properties-commen libssl-dev libevent-dev
+# apt-get install software-properties-common libssl-dev libevent-dev
 ```
 
 ### `Step 3`
@@ -23,7 +23,7 @@ Create a directory to the freecoin node software and download the package:
 ```
 # mkdir /coins
 # cd /coins
-# git clone https://github.com/fgshop/freecoin.git
+# git clone https://github.com/seockjunchoi/freecoin.git
 ```
 
 ### `Step 4`
