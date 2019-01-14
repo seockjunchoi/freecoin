@@ -62,12 +62,12 @@
         <translation>Empfangsadressen</translation>
     </message>
     <message>
-        <source>These are your Fgcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dies sind Ihre Fgcoin-Adressen zum Senden von Zahlungen. Überprüfen Sie immer die Menge und die Empfangsadresse, bevor Sie Fgcoins senden.</translation>
+        <source>These are your frcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dies sind Ihre frcoin-Adressen zum Senden von Zahlungen. Überprüfen Sie immer die Menge und die Empfangsadresse, bevor Sie frcoins senden.</translation>
     </message>
     <message>
-        <source>These are your Fgcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dies sind Ihre Fgcoin-Adressen für den Empfang von Zahlungen. Es wird empfohlen, für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
+        <source>These are your frcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dies sind Ihre frcoin-Adressen für den Empfang von Zahlungen. Es wird empfohlen, für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Achtung: Wenn Sie Ihre Wallet verschlüsseln und das Passwort verlieren, gehen &lt;b&gt;alle Ihre Fgcoins verloren&lt;/b&gt;!</translation>
+        <translation>Achtung: Wenn Sie Ihre Wallet verschlüsseln und das Passwort verlieren, gehen &lt;b&gt;alle Ihre frcoins verloren&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -330,8 +330,8 @@
         <translation>Reindexiere Blöcke auf dem Datenträger...</translation>
     </message>
     <message>
-        <source>Send coins to a Fgcoin address</source>
-        <translation>Coins an eine Fgcoin-Adresse senden</translation>
+        <source>Send coins to a frcoin address</source>
+        <translation>Coins an eine frcoin-Adresse senden</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -354,8 +354,8 @@
         <translation>Nachricht &amp;bestätigen</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>frcoin</source>
+        <translation>frcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -382,12 +382,12 @@
         <translation>Verschlüssele die Private Keys, die zu deiner Brieftasche gehören</translation>
     </message>
     <message>
-        <source>Sign messages with your Fgcoin addresses to prove you own them</source>
-        <translation>Nachrichten mit Ihrer Fgcoin-Adresse signieren, um zu beweisen, dass sie Ihnen gehören</translation>
+        <source>Sign messages with your frcoin addresses to prove you own them</source>
+        <translation>Nachrichten mit Ihrer frcoin-Adresse signieren, um zu beweisen, dass sie Ihnen gehören</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Fgcoin addresses</source>
-        <translation>Überprüfen Sie Nachrichten, um sicherzustellen, dass sie mit den angegebenen Fgcoin-Adressen signiert wurden</translation>
+        <source>Verify messages to ensure they were signed with specified frcoin addresses</source>
+        <translation>Überprüfen Sie Nachrichten, um sicherzustellen, dass sie mit den angegebenen frcoin-Adressen signiert wurden</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -468,8 +468,8 @@
         <translation>Überweisung empfangen</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Fgcoin can no longer continue safely and will quit.</source>
-        <translation>Ein schwerwiegender Fehler ist aufgetreten. Fgcoin kann nicht mehr sicher fortfahren und beendet sich.</translation>
+        <source>A fatal error occurred. frcoin can no longer continue safely and will quit.</source>
+        <translation>Ein schwerwiegender Fehler ist aufgetreten. frcoin kann nicht mehr sicher fortfahren und beendet sich.</translation>
     </message>
 </context>
 <context>
@@ -599,8 +599,8 @@
         <translation>Willkommen</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>frcoin</source>
+        <translation>frcoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -652,8 +652,8 @@
         <translation>Betrag</translation>
     </message>
     <message>
-        <source>Enter a Fgcoin address (e.g. %1)</source>
-        <translation>Fgcoin Adresse eingeben (z.B. %1)</translation>
+        <source>Enter a frcoin address (e.g. %1)</source>
+        <translation>frcoin Adresse eingeben (z.B. %1)</translation>
     </message>
     <message>
         <source>N/A</source>

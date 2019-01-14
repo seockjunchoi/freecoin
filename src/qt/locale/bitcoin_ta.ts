@@ -90,8 +90,8 @@
         <translation>&amp;செய்தியை சரிசெய்...</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>frcoin</source>
+        <translation>frcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -225,8 +225,8 @@
         <translation>நல்வரவு</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>frcoin</source>
+        <translation>frcoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -708,8 +708,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Fgcoin Core</source>
-        <translation>Fgcoin மையம்</translation>
+        <source>frcoin Core</source>
+        <translation>frcoin மையம்</translation>
     </message>
     <message>
         <source>(default: %u)</source>

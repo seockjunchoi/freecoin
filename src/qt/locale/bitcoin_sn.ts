@@ -98,8 +98,8 @@
         <translation>Vhura &amp;URI</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>frcoin</source>
+        <translation>frcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -165,8 +165,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>frcoin</source>
+        <translation>frcoin</translation>
     </message>
     </context>
 <context>
@@ -194,8 +194,8 @@
         <translation>Marii </translation>
     </message>
     <message>
-        <source>Enter a Fgcoin address (e.g. %1)</source>
-        <translation>Nyora kero ye Fgcoin (sekuti %1)</translation>
+        <source>Enter a frcoin address (e.g. %1)</source>
+        <translation>Nyora kero ye frcoin (sekuti %1)</translation>
     </message>
     <message>
         <source>%1 d</source>

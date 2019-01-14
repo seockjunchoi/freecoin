@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Fgcoin-Qt</string>
+  <string>frcoin-Qt</string>
   
   <key>CFBundleName</key>
-  <string>Fgcoin-Qt</string>
+  <string>frcoin-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.fgcoin.Fgcoin-Qt</string>
+  <string>org.frcoin.frcoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,10 +46,10 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.fgcoin.FgcoinPayment</string>
+      <string>org.frcoin.frcoinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>fgcoin</string>
+        <string>frcoin</string>
       </array>
     </dict>
   </array>
@@ -58,9 +58,9 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>org.fgcoin.paymentrequest</string>
+      <string>org.frcoin.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Fgcoin payment request</string>
+      <string>frcoin payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>
@@ -68,10 +68,10 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.mime-type</key>
-        <string>application/x-fgcoin-payment-request</string>
+        <string>application/x-frcoin-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>fgcoinpaymentrequest</string>
+          <string>frcoinpaymentrequest</string>
         </array>
       </dict>
     </dict>
@@ -84,7 +84,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>org.fgcoin.paymentrequest</string>
+        <string>org.frcoin.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>

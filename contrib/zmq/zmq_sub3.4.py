@@ -6,8 +6,8 @@
 """
     ZMQ example using python3's asyncio
 
-    Fgcoin should be started with the command line arguments:
-        fgcoind -testnet -daemon \
+    frcoin should be started with the command line arguments:
+        frcoind -testnet -daemon \
                 -zmqpubrawtx=tcp://127.0.0.1:28332 \
                 -zmqpubrawblock=tcp://127.0.0.1:28332 \
                 -zmqpubhashtx=tcp://127.0.0.1:28332 \

@@ -1,6 +1,6 @@
 ### TestGen ###
 
-Utilities to generate test vectors for the data-driven Fgcoin tests.
+Utilities to generate test vectors for the data-driven frcoin tests.
 
 Usage: 
 

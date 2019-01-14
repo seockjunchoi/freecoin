@@ -62,12 +62,12 @@
         <translation>Địa chỉ nhận</translation>
     </message>
     <message>
-        <source>These are your Fgcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Đây là các địa chỉ Fgcoin để gửi bạn gửi tiền. Trước khi gửi bạn nên kiểm tra lại số tiền bạn muốn gửi và địa chỉ fgcoin của người nhận.</translation>
+        <source>These are your frcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Đây là các địa chỉ frcoin để gửi bạn gửi tiền. Trước khi gửi bạn nên kiểm tra lại số tiền bạn muốn gửi và địa chỉ frcoin của người nhận.</translation>
     </message>
     <message>
-        <source>These are your Fgcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Đây là các địa chỉ Fgcoin để bạn nhận tiền. Với mỗi giao dịch, bạn nên dùng một địa chỉ Fgcoin mới để nhận tiền.</translation>
+        <source>These are your frcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Đây là các địa chỉ frcoin để bạn nhận tiền. Với mỗi giao dịch, bạn nên dùng một địa chỉ frcoin mới để nhận tiền.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -331,8 +331,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Đánh chỉ số (indexing) lại các khối (blocks) trên ổ đĩa ...</translation>
     </message>
     <message>
-        <source>Send coins to a Fgcoin address</source>
-        <translation>Gửi coins đến tài khoản Fgcoin</translation>
+        <source>Send coins to a frcoin address</source>
+        <translation>Gửi coins đến tài khoản frcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -355,8 +355,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>&amp;Tin nhắn xác thực</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>frcoin</source>
+        <translation>frcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -383,12 +383,12 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Mã hoá các khoá bí mật trong Ví của bạn.</translation>
     </message>
     <message>
-        <source>Sign messages with your Fgcoin addresses to prove you own them</source>
-        <translation>Dùng địa chỉ Fgcoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <source>Sign messages with your frcoin addresses to prove you own them</source>
+        <translation>Dùng địa chỉ frcoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Fgcoin addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Fgcoin xác định.</translation>
+        <source>Verify messages to ensure they were signed with specified frcoin addresses</source>
+        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ frcoin xác định.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -407,8 +407,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Thanh công cụ (toolbar)</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and fgcoin: URIs)</source>
-        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Fgcoin: URLs)</translation>
+        <source>Request payments (generates QR codes and frcoin: URIs)</source>
+        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ frcoin: URLs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -419,16 +419,16 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để nhận.</translation>
     </message>
     <message>
-        <source>Open a fgcoin: URI or payment request</source>
-        <translation>Mở fgcoin:URL hoặc yêu cầu thanh toán</translation>
+        <source>Open a frcoin: URI or payment request</source>
+        <translation>Mở frcoin:URL hoặc yêu cầu thanh toán</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>7Tùy chọn dòng lệnh</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Fgcoin network</source>
-        <translation><numerusform>%n liên kết hoạt động với mạng lưới Fgcoin</numerusform></translation>
+        <source>%n active connection(s) to frcoin network</source>
+        <translation><numerusform>%n liên kết hoạt động với mạng lưới frcoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -471,8 +471,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Đã cập nhật</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Fgcoin command-line options</source>
-        <translation>Hiển thị tin nhắn trợ giúp %1 để có được danh sách với các tùy chọn dòng lệnh Fgcoin.</translation>
+        <source>Show the %1 help message to get a list with possible frcoin command-line options</source>
+        <translation>Hiển thị tin nhắn trợ giúp %1 để có được danh sách với các tùy chọn dòng lệnh frcoin.</translation>
     </message>
     <message>
         <source>Connecting to peers...</source>
@@ -652,8 +652,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Sử dụng vị trí dữ liệu mặc định</translation>
     </message>
     <message>
-        <source>Fgcoin</source>
-        <translation>Fgcoin</translation>
+        <source>frcoin</source>
+        <translation>frcoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -705,8 +705,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Ví</translation>
     </message>
     <message>
-        <source>Connect to the Fgcoin network through a SOCKS5 proxy.</source>
-        <translation>Kết nối đến máy chủ Fgcoin thông qua SOCKS5 proxy.</translation>
+        <source>Connect to the frcoin network through a SOCKS5 proxy.</source>
+        <translation>Kết nối đến máy chủ frcoin thông qua SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1223,8 +1223,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Lựa chọn:</translation>
     </message>
     <message>
-        <source>Fgcoin Core</source>
-        <translation>Fgcoin Core</translation>
+        <source>frcoin Core</source>
+        <translation>frcoin Core</translation>
     </message>
     <message>
         <source>(default: %u)</source>

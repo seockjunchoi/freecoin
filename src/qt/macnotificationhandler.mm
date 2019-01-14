@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.fgcoin.Fgcoin-Qt";
+        return @"org.frcoin.frcoin-Qt";
     } else {
         return [self __bundleIdentifier];
     }
