@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "freecoin"
-            VALUE "FileDescription",    "freecoin-tx (CLI freecoin transaction editor utility)"
+            VALUE "CompanyName",        "Fgcoin"
+            VALUE "FileDescription",    "fgcoin-tx (CLI Fgcoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "freecoin-tx"
+            VALUE "InternalName",       "fgcoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "freecoin-tx.exe"
-            VALUE "ProductName",        "freecoin-tx"
+            VALUE "OriginalFilename",   "fgcoin-tx.exe"
+            VALUE "ProductName",        "fgcoin-tx"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

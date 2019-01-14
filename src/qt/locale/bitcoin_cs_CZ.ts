@@ -166,8 +166,8 @@
         <translation>Změnit heslo k šifrování peněženky</translation>
     </message>
     <message>
-        <source>freecoin</source>
-        <translation>freecoin</translation>
+        <source>Fgcoin</source>
+        <translation>Fgcoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -297,8 +297,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>freecoin</source>
-        <translation>freecoin</translation>
+        <source>Fgcoin</source>
+        <translation>Fgcoin</translation>
     </message>
     </context>
 <context>

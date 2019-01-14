@@ -5,42 +5,42 @@ and tests weren't explicitly disabled.
 
 After configuring, they can be run with `make check`.
 
-To run the freecoind tests manually, launch `src/test/test_freecoin`. To recompile
+To run the fgcoind tests manually, launch `src/test/test_fgcoin`. To recompile
 after a test file was modified, run `make` and then run the test again. If you
 modify a non-test file, use `make -C src/test` to recompile only what's needed
-to run the freecoind tests.
+to run the fgcoind tests.
 
-To add more freecoind tests, add `BOOST_AUTO_TEST_CASE` functions to the existing
+To add more fgcoind tests, add `BOOST_AUTO_TEST_CASE` functions to the existing
 .cpp files in the `test/` directory or add new .cpp files that
 implement new BOOST_AUTO_TEST_SUITE sections.
 
-To run the freecoin-qt tests manually, launch `src/qt/test/test_freecoin-qt`
+To run the fgcoin-qt tests manually, launch `src/qt/test/test_fgcoin-qt`
 
-To add more freecoin-qt tests, add them to the `src/qt/test/` directory and
+To add more fgcoin-qt tests, add them to the `src/qt/test/` directory and
 the `src/qt/test/test_main.cpp` file.
 
 ### Running individual tests
 
-test_freecoin has some built-in command-line arguments; for
+test_fgcoin has some built-in command-line arguments; for
 example, to run just the getarg_tests verbosely:
 
-    test_freecoin --log_level=all --run_test=getarg_tests
+    test_fgcoin --log_level=all --run_test=getarg_tests
 
 ... or to run just the doubledash test:
 
-    test_freecoin --run_test=getarg_tests/doubledash
+    test_fgcoin --run_test=getarg_tests/doubledash
 
-Run `test_freecoin --help` for the full list.
+Run `test_fgcoin --help` for the full list.
 
 ### Note on adding test cases
 
 The sources in this directory are unit test cases.  Boost includes a
-unit testing framework, and since freecoin already uses boost, it makes
+unit testing framework, and since fgcoin already uses boost, it makes
 sense to simply use this framework rather than require developers to
 configure some other framework (we want as few impediments to creating
 unit tests as possible).
 
-The build system is setup to compile an executable called "test_freecoin"
+The build system is setup to compile an executable called "test_fgcoin"
 that runs all of the unit tests.  The main source file is called
 test_bitcoin.cpp, which simply includes other files that contain the
 actual unit tests (outside of a couple required preprocessor

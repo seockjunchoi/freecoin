@@ -48,7 +48,7 @@
 #include <boost/thread.hpp>
 
 #if defined(NDEBUG)
-# error "freecoin cannot be compiled without assertions."
+# error "Fgcoin cannot be compiled without assertions."
 #endif
 
 #define MICRO 0.000001
@@ -238,7 +238,7 @@ CTxMemPool mempool(&feeEstimator);
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const std::string strMessageMagic = "freecoin Signed Message:\n";
+const std::string strMessageMagic = "Fgcoin Signed Message:\n";
 
 // Internal stuff
 namespace {
@@ -1683,7 +1683,7 @@ static bool WriteTxIndexDataForBlock(const CBlock& block, CValidationState& stat
 static CCheckQueue<CScriptCheck> scriptcheckqueue(128);
 
 void ThreadScriptCheck() {
-    RenameThread("freecoin-scriptch");
+    RenameThread("fgcoin-scriptch");
     scriptcheckqueue.Thread();
 }
 

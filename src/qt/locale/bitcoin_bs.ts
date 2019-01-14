@@ -14,8 +14,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>freecoin</source>
-        <translation>freecoin</translation>
+        <source>Fgcoin</source>
+        <translation>Fgcoin</translation>
     </message>
     </context>
 <context>
@@ -33,8 +33,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>freecoin</source>
-        <translation>freecoin</translation>
+        <source>Fgcoin</source>
+        <translation>Fgcoin</translation>
     </message>
     </context>
 <context>
@@ -160,8 +160,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>freecoin Core</source>
-        <translation>freecoin Jezrga</translation>
+        <source>Fgcoin Core</source>
+        <translation>Fgcoin Jezrga</translation>
     </message>
     </context>
 </TS>

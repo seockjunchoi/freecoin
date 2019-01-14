@@ -90,8 +90,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Send coins to a freecoin address</source>
-        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន freecoin មួយ</translation>
+        <source>Send coins to a Fgcoin address</source>
+        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន Fgcoin មួយ</translation>
     </message>
     <message>
         <source>Wallet</source>

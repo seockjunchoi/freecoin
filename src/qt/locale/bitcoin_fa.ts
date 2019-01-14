@@ -62,11 +62,11 @@
         <translation>آدرس‌های دریافتی</translation>
     </message>
     <message>
-        <source>These are your freecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Fgcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>این‌ها آدرس‌های بیتکوین برای پرداخت‌ها هستند. همیشه قبل از فرستادن سکه‌ها مقدار و آدرس دریافت‌کننده را بررسی نمایید.</translation>
     </message>
     <message>
-        <source>These are your freecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Fgcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>این‌ها آدرس‌های بیتکوین شما برای دریافت مبالغ می‌باشد. توصیه می‌شود برای هر تراکنش از یک آدرس جدید استفاده کنید.</translation>
     </message>
     <message>
@@ -314,8 +314,8 @@
         <translation>بازنشانی بلوک‌ها روی دیسک...</translation>
     </message>
     <message>
-        <source>Send coins to a freecoin address</source>
-        <translation>ارسال وجه به نشانی freecoin</translation>
+        <source>Send coins to a Fgcoin address</source>
+        <translation>ارسال وجه به نشانی Fgcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -338,8 +338,8 @@
         <translation>با&amp;زبینی پیام...</translation>
     </message>
     <message>
-        <source>freecoin</source>
-        <translation>freecoin</translation>
+        <source>Fgcoin</source>
+        <translation>Fgcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -366,12 +366,12 @@
         <translation>رمزنگاری کلیدهای خصوصی متعلق به کیف پول شما</translation>
     </message>
     <message>
-        <source>Sign messages with your freecoin addresses to prove you own them</source>
-        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی freecoin خود امضا کنید</translation>
+        <source>Sign messages with your Fgcoin addresses to prove you own them</source>
+        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی Fgcoin خود امضا کنید</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified freecoin addresses</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی freecoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify messages to ensure they were signed with specified Fgcoin addresses</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی Fgcoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -390,8 +390,8 @@
         <translation>نوارابزار برگه‌ها</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and freecoin: URIs)</source>
-        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس freecoin)</translation>
+        <source>Request payments (generates QR codes and fgcoin: URIs)</source>
+        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس fgcoin)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -402,16 +402,16 @@
         <translation>نمایش لیست آدرس های دریافت و لیبل ها</translation>
     </message>
     <message>
-        <source>Open a freecoin: URI or payment request</source>
-        <translation>بازکردن یک freecoin: آدرس یا درخواست پرداخت</translation>
+        <source>Open a fgcoin: URI or payment request</source>
+        <translation>بازکردن یک fgcoin: آدرس یا درخواست پرداخت</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>گزینه‌های خط‌فرمان</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to freecoin network</source>
-        <translation><numerusform>%n ارتباط فعال با شبکهٔ freecoin</numerusform><numerusform>%n ارتباط فعال با شبکهٔ freecoin</numerusform></translation>
+        <source>%n active connection(s) to Fgcoin network</source>
+        <translation><numerusform>%n ارتباط فعال با شبکهٔ Fgcoin</numerusform><numerusform>%n ارتباط فعال با شبکهٔ Fgcoin</numerusform></translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
@@ -658,8 +658,8 @@
         <translation>ویرایش آدرس قرستنده</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid freecoin address.</source>
-        <translation>نشانی وارد شده "%1" یک نشانی معتبر freecoin نیست.</translation>
+        <source>The entered address "%1" is not a valid Fgcoin address.</source>
+        <translation>نشانی وارد شده "%1" یک نشانی معتبر Fgcoin نیست.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -759,8 +759,8 @@
         <translation>استفاده از یک مسیر سفارشی:</translation>
     </message>
     <message>
-        <source>freecoin</source>
-        <translation>freecoin</translation>
+        <source>Fgcoin</source>
+        <translation>Fgcoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -864,8 +864,8 @@
         <translation>استخراج</translation>
     </message>
     <message>
-        <source>Automatically open the freecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>باز کردن خودکار درگاه شبکهٔ freecoin روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
+        <source>Automatically open the Fgcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>باز کردن خودکار درگاه شبکهٔ Fgcoin روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -967,8 +967,8 @@
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the freecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ freecoin همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Fgcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ Fgcoin همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1040,8 +1040,8 @@
         <translation>مبلغ</translation>
     </message>
     <message>
-        <source>Enter a freecoin address (e.g. %1)</source>
-        <translation>یک آدرس freecoin وارد کنید (مثلاً %1)</translation>
+        <source>Enter a Fgcoin address (e.g. %1)</source>
+        <translation>یک آدرس Fgcoin وارد کنید (مثلاً %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1484,8 +1484,8 @@
         <translation>این یک پرداخت عادی است</translation>
     </message>
     <message>
-        <source>The freecoin address to send the payment to</source>
-        <translation>نشانی freecoin برای ارسال پرداخت به آن</translation>
+        <source>The Fgcoin address to send the payment to</source>
+        <translation>نشانی Fgcoin برای ارسال پرداخت به آن</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1537,8 +1537,8 @@
         <translation>ا&amp;مضای پیام</translation>
     </message>
     <message>
-        <source>The freecoin address to sign the message with</source>
-        <translation>نشانی freecoin برای امضاء پیغام با آن</translation>
+        <source>The Fgcoin address to sign the message with</source>
+        <translation>نشانی Fgcoin برای امضاء پیغام با آن</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1569,7 +1569,7 @@
         <translation>امضای فعلی را به حافظهٔ سیستم کپی کن</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this freecoin address</source>
+        <source>Sign the message to prove you own this Fgcoin address</source>
         <translation>برای اثبات تعلق این نشانی به شما، پیام را امضا کنید</translation>
     </message>
     <message>
@@ -1589,12 +1589,12 @@
         <translation>&amp;شناسایی پیام</translation>
     </message>
     <message>
-        <source>The freecoin address the message was signed with</source>
-        <translation>نشانی freecoin که پیغام با آن امضاء شده</translation>
+        <source>The Fgcoin address the message was signed with</source>
+        <translation>نشانی Fgcoin که پیغام با آن امضاء شده</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified freecoin address</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی freecoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify the message to ensure it was signed with the specified Fgcoin address</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی Fgcoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1718,8 +1718,8 @@
         <translation>اجرا در پشت زمینه به‌صورت یک سرویس و پذیرش دستورات</translation>
     </message>
     <message>
-        <source>freecoin Core</source>
-        <translation> هسته freecoin </translation>
+        <source>Fgcoin Core</source>
+        <translation> هسته Fgcoin </translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
