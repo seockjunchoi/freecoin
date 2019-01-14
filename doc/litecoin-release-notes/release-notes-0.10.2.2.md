@@ -54,7 +54,7 @@ Protocol:
 - Litecoin TCP port 29333 (instead of 8333)
 - RPC TCP port 29332 (instead of 8332)
 - Testnet TCP port 129333 (instead of 18333)
-- Testnet RPC TCP port 129332 (instead of 18332)
+- Testnet RPC TCP port 29332 (instead of 18332)
 - 84 million coin limit  (instead of 21 million)
 - Magic 0xfbc0b6db       (instead of 0xf9beb4d9)
 - Target Block Time 2.5 minutes (instead of 10 minutes)
