@@ -48,7 +48,7 @@ Add the following lines to the **freecoin.conf** configuration file:
 ```
 rpcuser=username
 rpcpassword=userpassword
-rpcport=9332
+rpcport=29332
 rpcallowip=0.0.0.0/0
 
 addnode=123.123.123.123
